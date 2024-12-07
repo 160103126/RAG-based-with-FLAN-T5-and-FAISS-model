@@ -1,3 +1,7 @@
 streamlit
 transformers
 torch
+sentence_transformers
+datasets
+faiss-cpu
+numpy
